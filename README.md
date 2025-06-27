@@ -1,7 +1,6 @@
 # KPMG-Market-Segmentation-Analysis
 This project data driven analysis for the KPMG Data Analytics Virtual Internship. It includes customer segmentation, lifetime value estimation, product performance analysis, and marketing strategy development. 
-# KPM-Market-Segmentation-Analysis Project Report
-This data analysis project is completed as part of the KPMG Data Analytics Virtual Internship. It includes customer segmentation, lifetime value estimation, product performance analysis, and marketing strategy development.
+
 # 🚴‍♂️ KPMG Market Trends & Customer Value Analysis
 
 ## 🧩 Overview
