@@ -1,8 +1,8 @@
-# KPMG-Market-Segmentation-Analysis
+# KPMG-Market-Segmentation-Analysis (Excel + Power BI)
 This project data driven analysis for the KPMG Data Analytics Virtual Internship. It includes customer segmentation, lifetime value estimation, product performance analysis, and marketing strategy development. 
 
 # 🚴‍♂️ KPMG Market Trends & Customer Value Analysis
-
+Excel + Power BI Project
 ## 🧩 Overview
 This project explores customer segmentation, marketing insights, and value estimation using sales and demographic data for a fictional client, provided as part of the **KPMG Virtual Internship**. The focus is on uncovering key business opportunities through data analysis.
 
