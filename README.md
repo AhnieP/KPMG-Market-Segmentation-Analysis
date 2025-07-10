@@ -1,37 +1,35 @@
 # KPMG-Market-Segmentation-Analysis (Excel + Power BI)
 This project data driven analysis for the KPMG Data Analytics Virtual Internship. It includes customer segmentation, lifetime value estimation, product performance analysis, and marketing strategy development. 
 
-# 🚴‍♂️ KPMG Market Trends & Customer Value Analysis
-Excel + Power BI Project
-## 🧩 Overview
+## Project Overview
 This project explores customer segmentation, marketing insights, and value estimation using sales and demographic data for a fictional client, provided as part of the **KPMG Virtual Internship**. The focus is on uncovering key business opportunities through data analysis.
 
-## 🎯 Purpose of the Analysis
+## Purpose of the Analysis
 The goal is to support strategic decision-making by identifying high-value customer segments, improving customer targeting, and enhancing marketing ROI.
 
-## 📚 Background
+## Background
 KPMG, a global consulting firm, provided a retail dataset with anonymized customer, transaction, and product data. The analysis simulates real-world consulting tasks where analysts must derive actionable insights from customer behavior and financial patterns.
 
-## 🔍 Scope of the Analysis
+## Scope of the Analysis
 - Customer segmentation and profiling  
 - Transactional behavior analysis  
 - Customer lifetime value estimation  
 - Identification of high-value segments  
 - Marketing insights for targeting and growth  
 
-## 🎯 Key Objectives
+## Key Objectives
 - Identify high-value customers based on spending patterns and demographics  
 - Group customers into meaningful segments  
 - Estimate potential value across customer segments  
 - Provide strategic marketing recommendations  
 
-## 🗂 Data Sources
+## Data Sources
 - Customer Demographic Data  
 - Transactions Data  
 - New Customer List  
 - Provided by [KPMG via the Virtual Internship portal](https://www.theforage.com/virtual-internships/prototype/M7W7ybmtAqn3snbzF/KPMG-Data-Analytics-Virtual-Internship)
 
-## 🧹 Data Cleaning and Preparation (Excel + Power BI)
+## Data Cleaning and Preparation (Excel + Power BI)
 Performed the following:
 - Removed duplicate entries and blank rows  
 - Standardized customer IDs and formatted date fields  
@@ -40,7 +38,7 @@ Performed the following:
 - Established relationships between datasets using customer and transaction IDs  
 - Built a Power BI data model that supports segment-level insights and dynamic filtering  
 
-## 📈 Key Measures and Insights
+## Key Measures and Insights
 
 - **Sales Performance Over Time:**  
   Total transactions, revenue, and profit figures show noticeable **seasonal spikes and downtimes**, likely linked to promotions or buying cycles.
@@ -56,9 +54,9 @@ Performed the following:
   - **Car Ownership:** Minimal impact on spending behavior  
   - **Top Industries:** Manufacturing, Finance, and Health  
 
-## 🖥 Dashboard Overview
+## Dashboard Overview
 
-### 🔹 Sales and Profit Trends
+### 🔹Sales and Profit Trends
 - **Visuals:** Line and area charts showing monthly revenue, transactions, and profits  
 - **Insight:** Identifies seasonal patterns, guiding sales and promotional strategy  
 
@@ -87,11 +85,11 @@ Performed the following:
   - ![Screenshot 2025-06-27 141402](https://github.com/user-attachments/assets/7ce6f492-86cb-4692-a46e-253a173ec634)
   - ![Screenshot 2025-06-27 141422](https://github.com/user-attachments/assets/46e57fe4-611d-4fb3-96b2-3f1990585b81)
  
-## ✅ 12. 📁 Project Access Template
+## 12. Project Access Template
 
 - Use the Power BI Desktop (latest version) to view project [here](https://app.powerbi.com/groups/me/reports/bc840277-1d47-4bc1-b924-84b6123455c3/d38fd07e5dc739d9552d?experience=power-bi) 
 
-## ✅ Recommendations
+## Recommendations
 
 ### 🔸 External Data Opportunities
 To enhance targeting, integrate:  
