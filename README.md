@@ -134,4 +134,10 @@ To enhance targeting, integrate:
 
 ---
 
+## 13. Author
 
+**Anna Paul**  
+*Data Analyst*  
+📍 Abuja, Nigeria  
+📧 [annapaul668@gmail.com](mailto:annapaul668@gmail.com)  
+📞 +234 8142944324
