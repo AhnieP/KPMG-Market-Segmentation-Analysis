@@ -56,15 +56,15 @@ Performed the following:
 
 ## Dashboard Overview
 
-### 🔹Sales and Profit Trends
+### Sales and Profit Trends
 - **Visuals:** Line and area charts showing monthly revenue, transactions, and profits  
 - **Insight:** Identifies seasonal patterns, guiding sales and promotional strategy  
 
-### 🔹 Product Performance
+### Product Performance
 - **Visuals:** Stacked column and pie charts by product line and brand  
 - **Insight:** Standard dominates; Solex, WeareA2B, and Giant Bicycles drive 60% of revenue  
 
-### 🔹 Customer Segmentation
+### Customer Segmentation
 - **Visuals:**  
   - Donut charts by gender and car ownership  
   - Stacked bar graphs by age group and segment  
@@ -75,30 +75,31 @@ Performed the following:
   - High-value customers are 45–65+, female, and found in key industries (manufacturing, finance, health)  
   - Car ownership shows limited impact on spend  
 
-### 🔹 Demographic Insights
+### Demographic Insights
 - **Visuals:** Slicers for State, Order Type (Online vs Offline), and Industry  
 - **Insights:**  
   - Offline orders have higher volume, but online shows rising potential  
   - Industry and region filters reveal localized insights for targeting
  
-  - ![Screenshot 2025-06-27 141345](https://github.com/user-attachments/assets/ca6c0842-7d4b-409c-a8ac-320b45c1a02e)
-  - ![Screenshot 2025-06-27 141402](https://github.com/user-attachments/assets/7ce6f492-86cb-4692-a46e-253a173ec634)
-  - ![Screenshot 2025-06-27 141422](https://github.com/user-attachments/assets/46e57fe4-611d-4fb3-96b2-3f1990585b81)
- 
+  - <img width="798" height="450" alt="Screenshot 2025-07-10 190243" src="https://github.com/user-attachments/assets/3aac63a1-77ab-4873-9f86-298d71f9123e" />
+  - <img width="795" height="442" alt="Screenshot 2025-07-10 190310" src="https://github.com/user-attachments/assets/5b50749d-7327-417e-84bb-8a9593c7ebe0" />
+  - <img width="802" height="453" alt="Screenshot 2025-07-10 190340" src="https://github.com/user-attachments/assets/319c0e66-fd44-4b60-a358-d0c4ae96c3a0" />
+
+
 ## 12. Project Access Template
 
 - Use the Power BI Desktop (latest version) to view project [here](https://app.powerbi.com/groups/me/reports/bc840277-1d47-4bc1-b924-84b6123455c3/d38fd07e5dc739d9552d?experience=power-bi) 
 
 ## Recommendations
 
-### 🔸 External Data Opportunities
+### External Data Opportunities
 To enhance targeting, integrate:  
 - Census & ABS data for demographic profiling  
 - Google Trends for interest seasonality  
 - Social media for sentiment tracking  
 - Competitor pricing for benchmarking  
 
-### 🔸 Targeting Strategy for Sprocket Central Pty Ltd
+### Targeting Strategy for Sprocket Central Pty Ltd
 
 **Customer List Focus:**
 1. **Prioritize High-Value Segments:**  
@@ -116,7 +117,7 @@ To enhance targeting, integrate:
 6. **Customize Messaging:**  
    Leverage wealth, age, and industry data for precise targeting  
 
-### 🔸 Targeting the Broader Market Segment
+### Targeting the Broader Market Segment
 
 1. **Product Line Growth:**  
    While Standard bikes lead (71.55%), promote Road (20.03%) and Touring (6.25%) categories  
